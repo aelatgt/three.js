@@ -27,5 +27,6 @@
 	"src/cameras/CubeCamera.js",
 	"src/cameras/OrthographicCamera.js",
 	"src/cameras/PerspectiveCamera.js",
+	"src/lights/Light.js",
 	"src/scenes/Scene.js"
 ]
