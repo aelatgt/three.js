@@ -28,5 +28,6 @@
 	"src/cameras/OrthographicCamera.js",
 	"src/cameras/PerspectiveCamera.js",
 	"src/lights/Light.js",
+	"src/objects/Bone.js",
 	"src/scenes/Scene.js"
 ]
